@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
-  "url": "https://github.com/Pisciotta545/Lumera-remoto-update/releases/download/android/LumeraPresent-v1.1.4.apk",
-  "notas": "• Si no se pueden traer los grupos de las imágenes rápidas, ahora se muestra el motivo (para poder arreglarlo). • Avisa si la PC tiene una versión vieja de Lumera."
+  "version": "1.1.5",
+  "url": "https://github.com/Pisciotta545/Lumera-remoto-update/releases/download/android/LumeraPresent-v1.1.5.apk",
+  "notas": "• Nuevo en Ajustes: 'Probar conexión', revisa los servicios que usa la app (Nube, archivos, actualizaciones) y muestra qué anda y qué no."
 }
