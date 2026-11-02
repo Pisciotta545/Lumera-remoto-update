@@ -1,5 +1,5 @@
 {
-  "version": "1.1.5",
-  "url": "https://github.com/Pisciotta545/Lumera-remoto-update/releases/download/android/LumeraPresent-v1.1.5.apk",
-  "notas": "• Nuevo en Ajustes: 'Probar conexión', revisa los servicios que usa la app (Nube, archivos, actualizaciones) y muestra qué anda y qué no."
+  "version": "1.1.6",
+  "url": "https://github.com/Pisciotta545/Lumera-remoto-update/releases/download/android/LumeraPresent-v1.1.6.apk",
+  "notas": "• Arreglado: con datos móviles la Nube no andaba en algunos celulares (no se conectaban a Supabase). Ahora, si pasa eso, la app usa automáticamente el servidor de Lumera como respaldo: se mandan comandos, archivos y llegan los grupos de las imágenes rápidas."
 }
