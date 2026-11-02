@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/Pisciotta545/Lumera-remoto-update/releases/download/android/Lumera_Present.apk",
-  "notas": "Version inicial de Lumera Remoto."
+  "version": "1.1.0",
+  "url": "https://github.com/Pisciotta545/Lumera-remoto-update/releases/download/android/LumeraPresent-v1.1.0.apk",
+  "notas": "Nuevo: enviar imágenes rápidas a la PC eligiendo el grupo (pestaña Archivos y Compartir → Lumera). Requiere Lumera en la PC 2.3.4 o posterior."
 }
