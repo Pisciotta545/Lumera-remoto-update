@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/Pisciotta545/Lumera-remoto-update/releases/download/android/LumeraPresent-v1.1.1.apk",
-  "notas": "• El aviso de actualización aparece apenas abrís la app. • Arreglado: con datos móviles (o con Nube elegida) los archivos quedaban trabados en 'Transfiriendo por LAN'; ahora van directo por la Nube. • Al entrar a Archivos se despierta el servidor de la Nube para que el envío arranque más rápido."
+  "version": "1.1.2",
+  "url": "https://github.com/Pisciotta545/Lumera-remoto-update/releases/download/android/LumeraPresent-v1.1.2.apk",
+  "notas": "• Arreglado: por la Nube ahora aparecen los grupos de las imágenes rápidas (se actualizan solos apenas contesta la PC). • Arreglado: si la app arrancaba en Nube o con datos móviles no recibía las listas de la PC (fondos, favoritos, canciones)."
 }
