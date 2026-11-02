@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
-  "url": "https://github.com/Pisciotta545/Lumera-remoto-update/releases/download/android/LumeraPresent-v1.1.2.apk",
-  "notas": "• Arreglado: por la Nube ahora aparecen los grupos de las imágenes rápidas (se actualizan solos apenas contesta la PC). • Arreglado: si la app arrancaba en Nube o con datos móviles no recibía las listas de la PC (fondos, favoritos, canciones)."
+  "version": "1.1.3",
+  "url": "https://github.com/Pisciotta545/Lumera-remoto-update/releases/download/android/LumeraPresent-v1.1.3.apk",
+  "notas": "• Arreglado: por la Nube (datos móviles) ahora sí aparecen los grupos de las imágenes rápidas. El celular espera a estar conectado a la Nube antes de pedirle los datos a la PC y, si la respuesta se pierde, la vuelve a buscar. • Las listas de la PC (fondos, favoritos, canciones) también llegan bien por la Nube."
 }
