@@ -1,5 +1,5 @@
 {
-  "version": "1.1.6",
-  "url": "https://github.com/Pisciotta545/Lumera-remoto-update/releases/download/android/LumeraPresent-v1.1.6.apk",
-  "notas": "• Arreglado: con datos móviles la Nube no andaba en algunos celulares (no se conectaban a Supabase). Ahora, si pasa eso, la app usa automáticamente el servidor de Lumera como respaldo: se mandan comandos, archivos y llegan los grupos de las imágenes rápidas."
+  "version": "1.1.7",
+  "url": "https://github.com/Pisciotta545/Lumera-remoto-update/releases/download/android/LumeraPresent-v1.1.7.apk",
+  "notas": "• Nuevo: botón ENVIAR MINIATURA en Archivos. Manda una foto como miniatura de la transmisión de YouTube: Lumera Present la pasa a Lumera Studio, que reemplaza la anterior.\n• Favoritos: las imágenes del celular se cargan con vista previa y se proyectan tocándolas."
 }
