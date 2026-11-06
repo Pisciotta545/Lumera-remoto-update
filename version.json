@@ -1,5 +1,5 @@
 {
-  "version": "1.1.7",
-  "url": "https://github.com/Pisciotta545/Lumera-remoto-update/releases/download/android/LumeraPresent-v1.1.7.apk",
-  "notas": "• Nuevo: botón ENVIAR MINIATURA en Archivos. Manda una foto como miniatura de la transmisión de YouTube: Lumera Present la pasa a Lumera Studio, que reemplaza la anterior.\n• Favoritos: las imágenes del celular se cargan con vista previa y se proyectan tocándolas."
+  "version": "1.1.8",
+  "url": "https://github.com/Pisciotta545/Lumera-remoto-update/releases/download/android/LumeraPresent-v1.1.8.apk",
+  "notas": "• Canciones: la playlist ahora tiene grupos (por ejemplo «Domingo», «Jóvenes»); tu lista de antes quedó en «General».\n• Nuevo «Cargar con IA»: pegás la lista de canciones que te mandaron y la IA la carga sola en la playlist; las que no están en la biblioteca les busca la letra en internet.\n• Nuevo «Mandar a la PC»: elegís a qué grupo de la playlist de la PC mandarla (o creás uno). Necesita Lumera Present 2.3.9."
 }
